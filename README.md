@@ -4,7 +4,7 @@ The following guide describes how you can use the Real Time Clock (RTC).
 To measure longer times it is recommended to make use of the RTC.
 If the RTC is initialized the standard C date and time functions can be used.
 
-> Epoche-converts are available to get the Unix timestamp to inizialize the RTC. [LINK](https://www.epochconverter.com/) 
+> Epoche-converts are available to get the Unix timestamp to configure the RTC. [LINK](https://www.epochconverter.com/) 
 
 ## Step 1: Download mbed CLI
 
